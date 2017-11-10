@@ -149,23 +149,23 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS EL CONOCIMIENTO</span> 
 
 				<p class="pi-margin-bottom-30">
-					Promovemos  el conocimiento 
-La capacitación es la mejor inversión, porque garantiza la innovación, competitividad y productividad.
-¿Qué hacemos?
+					La capacitación es un proceso continuo porque la realidad , la tecnología y los conocimientos están en permanente desarrollo. La capacitación es la mejor inversión, porque garantiza la innovación, competitividad y productividad.
 
 				</p>
 				
 				<div class="pi-row">
-					<div class="pi-col-sm-11">
+					<div class="pi-col-sm-6">
 						<ul class="pi-list-with-icons pi-list-icons-ok">
-							<li>Ofrecemos cursos de capacitación dictados por expertos y con dimensión multidisciplinaria.</li>
-							<li>Organizamos eventos académicos (seminarios, foros de discusión, conversatorios) que promueven el intercambio de ideas, la reflexión y la investigación.</li>
+							<li>Ofrecemos cursos de capacitación con altos niveles académicos, con dimensión multidisciplinaria</li>
+							<li>Que son impartidos por profesionales con amplia experiencia profesional y credenciales.</li>
+							<li>Académicas que garantizan espacios de aprendizaje que aportan en la gestión pública.</li>
+							<li>Organizamos eventos académicos (seminarios, foros de discusión, conversatorios).</li>
 						</ul>
 					</div>
 
 				</div>
 				<p class="pi">
-			      <a href="curso-contratacion-publica.php" class="btn pi-btn-base">
+			      <a href="#" class="btn pi-btn-base">
 				       Más Info
 			      </a>
 		</p>

@@ -147,23 +147,23 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS EL DESARROLLO DE LAS PERSONAS</span> 
 
 				<p class="pi-margin-bottom-30">
-					Promovemos el desarrollo de las personas
-El desarrollo personal es una parte sustancial para cualquier organización.
-¿Qué hacemos?
+					El desarrollo personal es una parte sustancial para cualquier organización, por eso:
 				</p>
 				
 				<div class="pi-row">
-					<div class="pi-col-sm-11">
+					<div class="pi-col-sm-6">
 						<ul class="pi-list-with-icons pi-list-icons-ok">
-							<li>Programas de desarrollo personal de los funcionarios públicos y  del sector privado que interactúa con el Estado.</li>
-							<li>Actividades de integración que faciliten el trabajo en equipo. .</li>
-
+							<li>Promovemos actividades de formación que contribuyan al desarrollo personal </li>
+							<li>De los funcionarios públicos y  del sector privado que interactúa de manera .</li>
+							<li>Directa con el Estado, con la finalidad de promover personas que estén dispuestas</li>
+							<li>A contribuir al desarrollo del país, desde una perspectiva ética, responsable y comprometida con la sociedad.
+.</li>
 						</ul>
 					</div>
 
 				</div>
 				<p class="pi">
-			      <a href="curso-contratacion-publica.php" class="btn pi-btn-base">
+			      <a href="#" class="btn pi-btn-base">
 				       Más Info
 			      </a>
 		</p>
