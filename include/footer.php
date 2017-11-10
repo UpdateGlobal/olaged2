@@ -110,9 +110,6 @@
 <script src="scripts/pi.scrollTopArrow.js"></script>
 <script src="3dParty/tweetie/tweetie.min.js"></script>
 <script src="scripts/pi.init.tweetie.js"></script>
-<script src="3dParty/jquery.js"></script>
-<script src="3dParty/jquery.smooth-scroll.js"></script>
-<script src="http://code.jquery.com/jquery-latest.js"></script>
 
 <script type="text/javascript">
     $(document).ready(function(){
