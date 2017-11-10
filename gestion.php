@@ -147,22 +147,22 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS LA GESTION</span> 
 
 				<p class="pi-margin-bottom-30">
-					Fomentamos y acompañamos el proceso de implementación
+					Promovemos la gestión
+La gestión eficiente en el Estado incide directamente en el bienestar del ciudadano.
+Qué hacemos?
 				</p>
 				
 				<div class="pi-row">
-					<div class="pi-col-sm-6">
+					<div class="pi-col-sm-11">
 						<ul class="pi-list-with-icons pi-list-icons-ok">
-							<li>Gestionando el cambio desde el punto de vista de las personas involucradas</li>
-							<li>Las necesidades de implementación técnica (sistemas, procesos, informática).</li>
-							<li>Enfocada en solucionar los problemas del ciudadano.</li>
-							<li>Gestionamos los procesos de implementación de cambios y medimos los resultados para incorporar mejoras permanentes.</li>
-						</ul>
+							<li>Fomentamos y acompañamos nuevos sistemas y procesos de gestión.</li>
+							<li>Implementamos mejoras en procesos existentes, con indicadores de gestión. </li>
+					  </ul>
 					</div>
 
 				</div>
 				<p class="pi">
-			      <a href="#" class="btn pi-btn-base">
+			      <a href="curso-contratacion-publica.php" class="btn pi-btn-base">
 				       Más Info
 			      </a>
 		</p>
