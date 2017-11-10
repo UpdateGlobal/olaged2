@@ -167,13 +167,13 @@ Qué hacemos?
 			      </a>
 		</p>
 			</div>
-
+         <div class="container">
 			<div class="pi-col-sm-6 pi-padding-bottom-50">
 
-			   <a href="#"><img src="img/proyectos.png" alt=""/></a>
+			   <img src="img/proyectos.png" class="img-responsive" alt="Cinque Terre">
 
 			</div>
-
+          </div>
 		</div>
 		
 	</div>
