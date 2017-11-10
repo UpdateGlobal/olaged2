@@ -603,6 +603,7 @@ blockquote.alt, blockquote.icon.alt {
   padding: 0 8px 0 0;
   position: relative;
   float: left;
+  text-align: justify;
 }
 
 .big .dropcap {

@@ -741,6 +741,7 @@
 }
 .pi-section-white .pi-tabs-content-transparent {
   background: none;
+  text-align: justify;
 }
 .pi-section-base .pi-tabs-navigation li a {
   color: #ffffff;

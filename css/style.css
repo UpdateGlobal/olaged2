@@ -5934,6 +5934,12 @@ hr.pi-divider-gap-100 {
   position: relative;
   padding-left: 22px;
 }
+
+.el{
+  margin-left: 50px;
+
+}
+
 .pi-list-with-icons li .pi-bullet-icon,
 .pi-bullets-circle li .pi-bullet-icon,
 .pi-bullets-square li .pi-bullet-icon,
@@ -12894,3 +12900,4 @@ select.form-control {
 .adelanto{
   background-color: #ECF3FC;
 }
+.justi{text-align: justify;}
