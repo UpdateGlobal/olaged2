@@ -147,22 +147,22 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS LA INVESTIGACIÓN</span> 
 
 				<p class="pi-margin-bottom-30">
-					Analizar la información de la gestión y del estado actual del sector, permite identificar:
+					La investigación permite identificar políticas públicas que deberían consolidarse; oportunidades de mejora y nuevos desafíos.
+
 				</p>
 				
 				<div class="pi-row">
-					<div class="pi-col-sm-6">
+					<div class="pi-col-sm-11">
 						<ul class="pi-list-with-icons pi-list-icons-ok">
-							<li>Políticas públicas que, dada su idoneidad, deberían consolidarse</li>
-							<li>Oportunidades de mejora que se traducen en mejores prácticas o alternativas que permitan solucionar los problemas detectados.</li>
-							<li>Temporibus autem quibusdam et aut officiis debitis aut rerum</li>
-							<li>Retos futuros en los que será necesario intervenir.</li>
+							<li>Desarrollamos investigaciones sobre el desenvolvimiento de la gestión pública: líneas de base, indicadores de gestión, evaluación de resultados.</li>
+							<li>Identificamos oportunidades de mejora en las medidas regulatorias implementadas. </li>
+
 						</ul>
 					</div>
 
 				</div>
 				<p class="pi">
-			      <a href="#" class="btn pi-btn-base">
+			      <a href="curso-contratacion-publica.php" class="btn pi-btn-base">
 				       Más Info
 			      </a>
 		</p>

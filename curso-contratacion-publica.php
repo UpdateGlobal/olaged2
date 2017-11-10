@@ -123,7 +123,7 @@
 <div class="pi-section-w pi-shadow-inside-top pi-section-parallax" style="background-image: url(img_external/gallery/team-smiling.jpg);">
 	<div class="pi-texture" style="background: rgba(24, 28, 32, 0.8);"></div>
 	<div class="pi-section pi-section-md pi-titlebar pi-titlebar-breadcrumb-right">
-		<h1>CURSO DE CONTRATACIÓN PÚBLICA</h1>
+		<h1>CURSO DE CONTRATACIÓN PÚBLICA modalidad presencial</h1>
 
 		<div class="pi-breadcrumb">
 			<ul>
@@ -141,10 +141,7 @@
 		<h5 class="pi-has-border pi-has-tall-border pi-has-base-border">
 			PROGRAMA
 		</h5>
-<p>PRIMER DIA: SABADO 11 DE NOVIEMBRE  (9:00 am – 1:00 pm)
-	<ul class="pi-list-with-icons pi-list-icons-minus">
-					<li>Expositora: Dra. María Elena Lazo</li>
-Ex Vocal del Tribunal de Contrataciones del Estado, Jefa de Asesoría Jurídica de SERNANP</p>
+<p><strong>MODULO I</strong>
 
 <p><strong>ASPECTOS GENERALES EN LAS CONTRATACIONES PÚBLICAS</strong>
 <li>Marco legal y principios que rigen las Contrataciones Públicas.</li>
@@ -190,10 +187,8 @@ Ex Vocal del Tribunal de Contrataciones del Estado, Jefa de Asesoría Jurídica 
 				</div>
      
 
-<p><strong>SEGUNDOD DÍA: SABADO 18 DE NOVIEMBRE (9:00 am – 1:00 pm)</strong><br>
-<p>Expositor: Dr. Héctor Inga Huamán</p>
-Ex Presidente del Tribunal de Contrataciones del Estado, Vocal del Tribunal de Contrataciones.
-FASE DE SELECCIÓN
+<p><strong>MODULO II</strong><br>
+<p><strong>FASE DE SELECCIÓN </strong></p>
 <li>Métodos de contratación</li>
 <li>Procedimientos de selección</li>
 <div class="pi-row">
@@ -226,8 +221,7 @@ FASE DE SELECCIÓN
 <li>Catálogo electrónico de Acuerdos Marco.</li>
 <li>Contratación Directa.</li></p>
 
-<p><strong>TERCERA FECHA: 25 DE NOVIEMBRE (9:00 am – 1:00 pm)</strong></p>
-<p>Expositor: Dr. Yvan Dulanto, abogado experto en compras estatales
+<p><strong>MODULO III</strong></p>
 <p><strong>EJECUCION CONTRACTUAL</strong></p>
 <li>Perfeccionamiento</li>
 <li>Requisitos: Alcance de las garantías de fiel cumplimiento y de adelantos según la nueva normativa.</li>
@@ -239,13 +233,29 @@ FASE DE SELECCIÓN
 <li>Contratos complementarios.</li>
 <strong>SOLUCION DE CONTROVERSIAS</strong>
 <li>Apelación</li>
-<li>Arbitraje</li></p><br><br></ul>
+<li>Arbitraje</li></p><br><br>
+<p><strong>EXPOSITORES:</strong></p>
+<p style="line-height:5px;"><strong>Dr. Hector Inga Huaman</strong>
+Ex presidente del tribunal de contrataciones del Estado, Vocal del tribunal de contrataciones. </p>
+
+<p style="line-height:5px;"><strong>Dr.Maria Elena Lazo</strong>
+Ex vocal del tribunal de contrataciones del Estado, Jefa de Asesoría Juridica de SERNANP </p>
+
+<p style="line-height:5px;"><strong>Dr. Yvan Dulanto</strong>
+Abogado experto en compras estatales </p>
+<br>
+<p style="line-height:5px;"><strong>Lugar:</strong>
+Auditotio del colegio de Abogados del Callao </p>
+<p style="line-height:5px;">Av. Oscar Benavides #4368, Bellavista Callao
+Informes e inscripciones: secretaria@cac.pe</p>
+<p style="line-height:5px;">telefono: 464-0222(sede central)/736-7267(sede ventanilla)</p>
+<br>
 <h5 class="pi-has-border pi-has-tall-border pi-has-base-border">
-			MATERIALES COMPLEMENTARIOS
+			MATERIAL DEL CURSO
 		</h5>
 <ul class="pi-list-with-icons pi-list-icons-plus">
-		<li><a href="https://drive.google.com/file/d/1BD3-REkq65ILUAPUbH9OFLo7IrdTWNGH/view">MATERIAL 1</a></li>
-		<li><a href="https://drive.google.com/open?id=1AFVKL2FQ8v9MiENWRJVJ0RcvEJnJ8_wm">MATERIAL 2</a></li>
+		<li><a href="https://drive.google.com/file/d/1BD3-REkq65ILUAPUbH9OFLo7IrdTWNGH/view">Ley #3025 - ley de contrataciones del estado.</a></li>
+		<li><a href="https://drive.google.com/open?id=1AFVKL2FQ8v9MiENWRJVJ0RcvEJnJ8_wm">Reglamento de la ley contrataciones del estado</a></li>
 	</ul>
 	</div>
 	

@@ -156,15 +156,16 @@
 
 <!-- LAYER NR. 3 -->
 <div class="tp-caption sft str"
-	 data-x="45" data-hoffset="0"
-	 data-y="236"
+	 data-x="-10" data-hoffset="0"
+	 data-y="165"
 	 data-speed="800"
 	 data-start="1800"
 	 data-easing="Back.easeInOut"
 	 data-endspeed="300"
-	 style="z-index: 5; font-size: 34px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 0px 16px; border-radius: 10px; box-shadow: 0 1px 1px rgba(0,0,0,0.15);">
-	     <p>CONVOCATORIA PARA </p>
-	     PARTICIPAR EN EL ANUARIO 
+	 style="z-index: 5; font-size: 27px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 0px 16px; border-radius: 10px; box-shadow: 0 1px 1px rgba(0,0,0,0.15); width: 860px;">
+	     <p>MODALIDAD PRESENCIAL </p>
+    <p>CURSO DE CONTRATACIÓN PUBLICA EN LAS FECHAS SIGUIENTES: 11,18,25 DE NOV 2017 DE 9:00 A.M - 1:00 P.M</p>
+	     
 </div>
 
 <!-- LAYER NR. 4 
@@ -188,7 +189,7 @@
 	 data-easing="Back.easeInOut"
 	 data-endspeed="300"
 	 style="z-index: 7;">
-	 <a href="#" class="btn pi-btn-base">
+	 <a href="curso-contratacion-publica.php" class="btn pi-btn-base">
 		Más Info
 	</a>
 </div>
@@ -198,7 +199,7 @@
 <!-- SLIDE  -->
 <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
 <!-- MAIN IMAGE -->
-<img src="img_external/revolution-slider/slider2.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+<img src="img_external/revolution-slider/slider1.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 <!-- LAYERS -->
 
 <!-- LAYER NR. 1 -->
@@ -248,9 +249,9 @@
 	 data-start="2400"
 	 data-easing="Back.easeInOut"
 	 data-endspeed="300"
-	 style="z-index: 6; font-size: 34px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 0px 16px; border-radius: 10px; box-shadow: 0 1px 1px rgba(0,0,0,0.15);">
-	 <p>PERFECCIONAMIENTO DE LAS </p>
-	    <p>POLÍTICAS PÚBLICAS</p>
+	 style="z-index: 6; font-size: 27px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 0px 16px; border-radius: 10px; box-shadow: 0 1px 1px rgba(0,0,0,0.15); width: 860px;">
+	 <p>MODALIDAD PRESENCIAL </p>
+    <p>CURSO DE CONTRATACIÓN PUBLICA EN LAS FECHAS SIGUIENTES: 11,18,25 DE NOV 2017 DE 9:00 A.M - 1:00 P.M</p>
 </div>
 
 <!-- LAYER NR. 5 
@@ -275,7 +276,7 @@
 	 data-easing="Back.easeInOut"
 	 data-endspeed="300"
 	 style="z-index: 8;">
-	<a href="#" class="btn pi-btn-base">
+	<a href="curso-contratacion-publica.php" class="btn pi-btn-base">
 		<i></i>Mas Info
 	</a>
 </div>
@@ -285,7 +286,7 @@
 <!-- SLIDE  -->
 <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
 <!-- MAIN IMAGE -->
-<img src="https://lh3.googleusercontent.com/-vLqajTIh8l4/Wd-JVHJUkhI/AAAAAAAApSM/fYgPmK4zLiku9diIujZwRkXDKCdTZQtDgCL0BGAYYCw/h600/2017-10-12.png"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+<img src="img_external/revolution-slider/slider1.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 <!-- LAYERS -->
 
 <!-- LAYER NR. 1 -->
@@ -343,14 +344,14 @@
 <!-- LAYER NR. 5 -->
 <div class="tp-caption sft str"
 	 data-x="45" data-hoffset="0"
-	 data-y="157"
+	 data-y="98"
 	 data-speed="500"
 	 data-start="2400"
 	 data-easing="Back.easeInOut"
 	 data-endspeed="300"
-	 style="z-index: 7; font-size: 34px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 12px 16px; border-radius: 10px; box-shadow: 0 1px 1px rgba(0,0,0,0.15);">
-	  <p>CAPACITACIÓN</p>
-	  <p>PROMOVEMOS EL CONOCIMIENTO</p>
+	 style="z-index: 7; font-size: 27px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 12px 16px; border-radius: 10px; box-shadow: 0 1px 1px rgba(0,0,0,0.15); width: 860px;">
+	<p>MODALIDAD PRESENCIAL </p>
+    <p>CURSO DE CONTRATACIÓN PUBLICA EN LAS FECHAS SIGUIENTES: 11,18,25 DE NOV 2017 DE 9:00 A.M - 1:00 P.M</p>
 </div>
 
 <!-- LAYER NR. 6 
@@ -374,7 +375,7 @@
 	 data-easing="Back.easeInOut"
 	 data-endspeed="300"
 	 style="z-index: 9;">
-	 <a href="#" class="btn pi-btn-base">
+	 <a href="curso-contratacion-publica.php" class="btn pi-btn-base">
 		<i></i>Más Info
 	</a>
 </div>
