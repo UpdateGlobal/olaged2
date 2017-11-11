@@ -34,7 +34,7 @@
 				CONTACTO
 			    </h6>
 				<p>Sed ut perspiciatis 105 unde,amet, consectetur</p>
-				<p>+ 511 982332122</p>
+				<p>+ 511 994 374 124</p>
 				<p>amet,@consectetur.com</p>
 	
 	    <ul class="pi-social-icons pi-stacked pi-jump pi-full-height pi-bordered  pi-colored-bg clearFix">
