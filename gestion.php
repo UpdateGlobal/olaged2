@@ -170,7 +170,7 @@ Qué hacemos?
          <div class="container">
 			<div class="pi-col-sm-6 pi-padding-bottom-50">
 
-			   <img src="img/proyectos.png" class="img-responsive" alt="Cinque Terre">
+			   <img src="images/gestion.jpg" class="img-responsive" alt="Cinque Terre">
 
 			</div>
           </div>
@@ -181,26 +181,7 @@ Qué hacemos?
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
 
 </div>
-<div class="pi-section-w pi-shadow-inside-top pi-section-dark2 piTooltips">
-	<div class="pi-texture" style="background: url() repeat;"></div>
-	<div class="pi-section pi-padding-top-60 pi-padding-bottom-40">
-		
-		<h1 class="pi-weight-300 pi-text-center">
-			Nam Libero Tempore Cum Soluta Nobis Eligendi 
-		</h1>
-		
-		<p class="lead-16 pi-text-center">
-			At vero eos et accusamus et iusto <span class="pi-text-base pi-weight-600 pi-tooltip pi-tooltip-base" data-placement="top" title="" data-original-title="Dolor sit amet consec tetur adipi sicing elit">+46,000 dignissimos</span> ducimus qui blanditiis praesentium voluptatum deleniti quos <br>dolores et quas molestias <span class="pi-text-base pi-weight-600 pi-tooltip pi-tooltip-base" data-placement="top" title="" data-original-title="Deleniti quos dolores et quas molestias">excepturi</span>.
-		</p>
-
-		<p class="pi-text-center">
-			<a href="#" class="btn pi-btn-base">
-				Más Info
-			</a>
-		</p>
-
-	</div>
-</div>
+<?php include("include/banner.php") ?>
 <?php include("include/footer.php"); ?>
 
 </body>

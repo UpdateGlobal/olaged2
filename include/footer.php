@@ -17,7 +17,7 @@
 			<div class="pi-clearfix pi-hidden-lg-only pi-hidden-md-only"></div>
 
 			<!-- Col 4 -->
-			<div class="pi-col-md-4 pi-col-sm-6 pi-padding-bottom-30">
+			<div class="pi-col-md-4 pi-col-sm-6 pi-padding-bottom-30 justi">
 
 				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-border pi-has-tall-border pi-has-short-border">
 				Acerca de OLAGED

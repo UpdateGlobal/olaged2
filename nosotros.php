@@ -121,7 +121,7 @@
 
 <div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-<div class="pi-section-w pi-section-parallax piCounter piTabs piTooltips" style="background-image: url(img_external/gallery/team-smiling.jpg);">
+<div class="pi-section-w pi-section-parallax piCounter piTabs piTooltips" style="background-image: url(images/servicios.jpg);">
 	<div class="pi-texture" style="background: rgba(24, 28, 32, 0.8);"></div>
 	<div class="pi-section pi-padding-top-100 pi-padding-bottom-80 pi-text-center">
 
@@ -268,7 +268,7 @@
 					</p>
 					
 					<div class="pi-img-w pi-img-round-corners pi-img-shadow pi-img-left pi-margin-top-5" style="width: 200px;">
-						<img src="img_external/gallery/img-31.jpg" alt=""/>
+						<img src="images/Juan-José-Martínez-Ortiz.png" alt=""/>
 					</div><br>
 					<p>
 						Ha prestado servicios para las siguientes entidades:<br> <br>

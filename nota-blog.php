@@ -160,7 +160,7 @@
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
 <div class="pi-section-w pi-section-white pi-slider-enabled piTooltips piSocials">
-	<div class="pi-section pi-padding-bottom-10">
+	<div class="pi-section pi-padding-bottom-10 justi">
 		
 		<div class="pi-row">
 		
@@ -174,7 +174,7 @@
 						<div class="pi-slide">
 							<div class="pi-img-w pi-img-round-corners pi-img-shadow pi-img-with-overlay">
 
-								<a href="img_external/gallery/blog-1.jpg" class="pi-colorbox"><img src="img_external/gallery/blog-1.jpg" alt=""/></a>
+								<a  class="pi-colorbox"><img src="images/servicios.jpg" alt=""/></a>
 
 							</div>
 						</div>
@@ -192,7 +192,7 @@
 				</p>
 				
 				<p>
-					<span class="pi-dropcap">
+					<span class="pi-dropcap justi">
 						El Poder Policía constituye una de las manifestaciones de la Función Administrativa del Estado. Esta consiste en la ordenación, regulación, limitación de derechos, para articularlos, coordinarlos, adecuarlos al interés general, público o derechos o intereses legítimos de otros ciudadanos. A estas función también se le conoce como "Regulación Administrativa".
 
 						La Regulación Administrativa o el Poder de Policía se fundamenta esencialmente en el riesgo o en la prevención de éste, frente a actividades desarrolladas por los ciudadanos que pudieran afectar a otros. Para tal efecto, el Estado actúa efectiva o positivamente, con mecanismos previos o posteriores, para hacer efectivas dichas limitaciones de derechos.

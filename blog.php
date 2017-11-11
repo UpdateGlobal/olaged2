@@ -165,12 +165,12 @@
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-<div class="pi-section-w pi-section-white">
+<div class="pi-section-w pi-section-white justi">
 	<div class="pi-section pi-padding-bottom-10">
 		
 		<div class="pi-row">
 		
-			<div class="pi-col-sm-9">
+			<div class="pi-col-sm-12">
 				
 				<!-- Post -->
 				<div class="pi-row">
@@ -178,8 +178,8 @@
 					<!-- Post thumbnail -->
 					<div class="pi-col-sm-2">
 						<div class="pi-img-w pi-img-round-corners pi-img-shadow">
-							<a href="img_external/gallery/digital-photo-camera.jpg" class="pi-colorbox">
-								<img src="img_external/gallery/digital-photo-camera-sq.jpg" alt="">
+							<a class="pi-colorbox">
+								<img src="https://lh3.googleusercontent.com/-pv2A6ddoTU8/Wd-Vbb69ktI/AAAAAAAApS8/HQw0WHrGYasn2pCCAyclLCXbvAwAKLlOgCL0BGAYYCw/h630/2017-10-12.jpg" alt="">
 								<div class="pi-img-overlay pi-no-padding pi-img-overlay-dark">
 									<div class="pi-caption-centered">
 										<div>
@@ -222,8 +222,8 @@ El Poder Policía constituye una de las manifestaciones de la Función Administr
 					<!-- Post thumbnail -->
 					<div class="pi-col-sm-2">
 						<div class="pi-img-w pi-img-round-corners pi-img-shadow">
-							<a href="img_external/gallery/mobile-business.jpg" class="pi-colorbox">
-								<img src="img_external/gallery/mobile-business-sq.jpg" alt="">
+							<a class="pi-colorbox">
+								<img src="https://lh3.googleusercontent.com/-rLxGy4XHzXs/Wd-CgSHoHFI/AAAAAAAApQc/YP64nxRvEzAha7YEzlK4w7q6uXUtiIvCgCL0BGAYYCw/h630/2017-10-12.jpg" alt="">
 								<div class="pi-img-overlay pi-no-padding pi-img-overlay-dark">
 									<div class="pi-caption-centered">
 										<div>
@@ -260,8 +260,8 @@ El Poder Policía constituye una de las manifestaciones de la Función Administr
 					<!-- Post thumbnail -->
 					<div class="pi-col-sm-2">
 						<div class="pi-img-w pi-img-round-corners pi-img-shadow">
-							<a href="img_external/gallery/digital-photo-camera.jpg" class="pi-colorbox">
-								<img src="img_external/gallery/digital-photo-camera-sq.jpg" alt="">
+							<a class="pi-colorbox">
+								<img src="https://lh3.googleusercontent.com/-pv2A6ddoTU8/Wd-Vbb69ktI/AAAAAAAApS8/HQw0WHrGYasn2pCCAyclLCXbvAwAKLlOgCL0BGAYYCw/h630/2017-10-12.jpg" alt="">
 								<div class="pi-img-overlay pi-no-padding pi-img-overlay-dark">
 									<div class="pi-caption-centered">
 										<div>
@@ -316,7 +316,7 @@ Si bien ambas ramas se manifiestan en actividades sancionadoras del Estado, disc
 				
 				
 				<!-- Tweets -->
-				<div class="pi-sidebar-block pi-padding-bottom-40">
+				<!-- <div class="pi-sidebar-block pi-padding-bottom-40">
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Notas de Blog
 					</h3>
@@ -326,7 +326,7 @@ Si bien ambas ramas se manifiestan en actividades sancionadoras del Estado, disc
 						<li><a href="#">@themeforest</a>: comentario <a href="#" class="pi-link-dark"></a> comentario
 						<br> <span class="pi-italic pi-small-text pi-text-silver"></span></li>
 					</ul>
-				</div>
+				</div> -->
 				<!-- End tweets -->
 				
 				<!-- Testimonial -->

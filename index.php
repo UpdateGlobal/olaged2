@@ -497,34 +497,14 @@
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-<div class="pi-section-w pi-shadow-inside-top pi-section-dark2 piTooltips">
-	<div class="pi-texture" style="background: url() repeat;"></div>
-	<div class="pi-section pi-padding-top-60 pi-padding-bottom-40">
-		
-		<h1 class="pi-weight-300 pi-text-center">
-			Crece con nosotros 
-		</h1>
-		
-		<p class="lead-16 pi-text-center">
-			Nuestra filosofía nos impulsa a  <span class="pi-text-base pi-weight-600 pi-tooltip pi-tooltip-base" data-placement="top">la búsqueda permanente del saber,</span> para ayudar a nuestros clientes a que puedan<br>gestionar sus procesos de <span class="pi-text-base pi-weight-600 pi-tooltip pi-tooltip-base">cambio y desarrollo</span>.
-
-		</p>
-
-		<p class="pi-text-center">
-			<a href="nosotros.php" class="btn pi-btn-base">
-				Más Info
-			</a>
-		</p>
-
-	</div>
-</div>
+<?php include("include/banner.php") ?>
 
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
 
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-<div id="actividades" class="pi-section-w pi-section-white adelanto">
+<!-- <div id="actividades" class="pi-section-w pi-section-white adelanto">
 	<div class="pi-section pi-padding-top-90 pi-padding-bottom-30">
 		
 		
@@ -558,11 +538,11 @@
 
 			<div class="pi-col-sm-6 pi-padding-bottom-50">
 
-				<!-- Slider -->
+				<!-- Slider
 				<div class="pi-slider-wrapper pi-slider-arrows-inside pi-slider-show-arrow-hover">
 					<div class="pi-slider pi-slider-animate-opacity">
 
-						<!-- Slide -->
+						<!-- Slide 
 						<div class="pi-slide">
 							<div class="pi-img-w pi-img-round-corners pi-img-shadow pi-img-with-overlay">
 
@@ -570,9 +550,9 @@
 
 							</div>
 						</div>
-						<!-- End slide -->
+						<!-- End slide 
 
-						<!-- Slide -->
+						<!-- Slide -
 						<div class="pi-slide">
 							<div class="pi-img-w pi-img-round-corners pi-img-shadow pi-img-with-overlay">
 
@@ -580,18 +560,18 @@
 
 							</div>
 						</div>
-						<!-- End slide -->
+						<!-- End slide 
 
 					</div>
 				</div>
-				<!-- End slider -->
+				<!-- End slider 
 
 			</div>
 
 		</div>
 		
 	</div>
-</div>
+</div> -->
 
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
 		
@@ -763,7 +743,7 @@
 		<div class="pi-row">
 			
 			<!-- Col 6 -->
-			<div class="pi-col-sm-6 pi-padding-bottom-30">
+			<div class="pi-col-sm-6 pi-padding-bottom-30 justi">
 				
 				<!-- Post item -->
 				<div class="pi-img-w pi-img-round-corners pi-img-left pi-img-shadow" style="width: 170px;">
@@ -775,13 +755,10 @@
 				</div>
 				
 				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
-					<a href="#" class="pi-link-dark">Regulación Administrativa (Poder de Policía del Estado) y Seguros Privados. Posible complementariedad virtuosa.</a>
+					<a href="nota-blog.php" class="pi-link-dark">Regulación Administrativa (Poder de Policía del Estado) y Seguros Privados. Posible complementariedad virtuosa.</a>
 				</h2>
 				
-				<ul class="pi-meta pi-margin-bottom-10">
-					<li><i class="icon-clock"></i></li>
-					<li><i class="icon-comment"></i>comentarios</li>
-				</ul>
+				
 				<p>
 					El Poder Policía constituye una de las manifestaciones de la Función Administrativa del Estado. Esta consiste en la ordenación, regulación, limitación de derechos, para articularlos, coordinarlos, adecuarlos al interés general, público o derechos o intereses legítimos de otros ciudadanos. A estas función también se le conoce como "Regulación Administrativa".
 					 <a href="nota-blog.php" class="pi-italic">Leer mas</a>
@@ -792,11 +769,11 @@
 			<!-- End col 6 -->
 			
 			<!-- Col 6 -->
-			<div class="pi-col-sm-6 pi-padding-bottom-30">
+			<div class="pi-col-sm-6 pi-padding-bottom-30 justi">
 
 				<!-- Post item -->
 				<div class="pi-img-w pi-img-round-corners pi-img-left pi-img-shadow" style="width: 170px;">
-					<a href="#">
+					<a href="nota-blog2.php">
 					<img src="https://lh3.googleusercontent.com/-rLxGy4XHzXs/Wd-CgSHoHFI/AAAAAAAApQc/YP64nxRvEzAha7YEzlK4w7q6uXUtiIvCgCL0BGAYYCw/h630/2017-10-12.jpg" alt="">
 					<span class="pi-img-overlay pi-img-overlay-white">
 					</span>
@@ -809,10 +786,7 @@
 					</a>
 				</h2>
 				
-				<ul class="pi-meta pi-margin-bottom-10">
-					<li><i class="icon-clock"></i></li>
-					<li><i class="icon-comment"></i>comentarios</li>
-				</ul>
+				
 				<p>
 					A partir de la dación del Decreto Legislativo N° 1023 (en el año 2008) queda claro que el Sistema Administrativo de Gestión de Recursos Humanos en un sistema administrativo, que comprende el conjunto de normas, principios, recursos, métodos, procedimientos y técnicas utilizados por las entidades del sector público.
 					  <a href="nota-blog2.php" class="pi-italic">Leer mas</a>

@@ -257,6 +257,9 @@ Informes e inscripciones: secretaria@cac.pe</p>
 		<li><a href="https://drive.google.com/file/d/1BD3-REkq65ILUAPUbH9OFLo7IrdTWNGH/view">Ley #3025 - ley de contrataciones del estado.</a></li>
 		<li><a href="https://drive.google.com/open?id=1AFVKL2FQ8v9MiENWRJVJ0RcvEJnJ8_wm">Reglamento de la ley contrataciones del estado</a></li>
 	</ul>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSe1cyjxiT626loOhBr3Dzy23FaA4UJbYCE7ZKMZie8Q5VKLCQ/viewform" target="_blank" class="btn pi-btn-base">
+		INSCRÍBETE AQUI
+	</a>
 	</div>
 	
 </div><br><br>

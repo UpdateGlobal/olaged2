@@ -20,7 +20,7 @@
 					</li>
 				</ul>
 			</li>
-				<li class=""><a href="#anchor-about"><span>Actividades</span></a>
+				<!-- <li class=""><a href="#anchor-about"><span>Actividades</span></a> -->
 				
 			</li>
 				<li class=""><a href="blog.php"><span>Noticias</span></a>
