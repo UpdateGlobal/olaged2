@@ -125,12 +125,12 @@
 	<div class="pi-section pi-section-md pi-titlebar pi-titlebar-breadcrumb-right">
 		<h1>GESTION</h1>
 
-		<div class="pi-breadcrumb">
+	<!--	<div class="pi-breadcrumb">
 			<ul>
 				<li><a href="index.php">INICIO</a></li>
 				<li>Gestión</li>
 			</ul>
-		</div>
+		</div>-->
 	</div>
 </div>
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->

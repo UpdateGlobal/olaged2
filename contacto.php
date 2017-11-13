@@ -132,7 +132,7 @@
 	<div class="pi-section pi-titlebar pi-breadcrumb-only">
 		<div class="pi-breadcrumb">
 			<ul>
-				<li><a href="index.html">Inicio</a></li>
+				<li><a href="index.php">Inicio</a></li>
 				<li>Contacto</li>
 			</ul>
 		</div>
@@ -193,7 +193,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="form-group pi-padding-bottom-10">
+				<!--	<div class="form-group pi-padding-bottom-10">
 						<label for="exampleInputSelect">Cantidades</label>
 						<select class="form-control form-control-budjet" name="cantidad" id="exampleInputSelect">
 							<option>$1000</option>
@@ -202,7 +202,7 @@
 							<option>$5000</option>
 							<option>$10000</option>
 						</select>
-					</div>
+					</div>-->
 					<div class="form-group pi-padding-bottom-10">
 						<label for="exampleInputMessage1">Mensaje</label>
 

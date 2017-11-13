@@ -125,12 +125,12 @@
 	<div class="pi-section pi-section-md pi-titlebar pi-titlebar-breadcrumb-right">
 		<h1>CURSO DE CONTRATACIÓN PÚBLICA modalidad presencial</h1>
 
-		<div class="pi-breadcrumb">
+	<!--	<div class="pi-breadcrumb">
 			<ul>
 				<li><a href="index.php">INICIO</a></li>
 				<li>Curso de Contratación Pública</li>
 			</ul>
-		</div>
+		</div> -->
 	</div>
 </div>
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
@@ -235,20 +235,20 @@
 <li>Apelación</li>
 <li>Arbitraje</li></p><br><br>
 <p><strong>EXPOSITORES:</strong></p>
-<p style="line-height:5px;"><strong>Dr. Hector Inga Huaman</strong>
+<p style="line-height:13px;"><strong>Dr. Hector Inga Huaman</strong>
 Ex presidente del tribunal de contrataciones del Estado, Vocal del tribunal de contrataciones. </p>
 
-<p style="line-height:5px;"><strong>Dr.Maria Elena Lazo</strong>
+<p style="line-height:13px;"><strong>Dr.Maria Elena Lazo</strong>
 Ex vocal del tribunal de contrataciones del Estado, Jefa de Asesoría Juridica de SERNANP </p>
 
-<p style="line-height:5px;"><strong>Dr. Yvan Dulanto</strong>
+<p style="line-height:13px;"><strong>Dr. Yvan Dulanto</strong>
 Abogado experto en compras estatales </p>
 <br>
-<p style="line-height:5px;"><strong>Lugar:</strong>
+<p style="line-height:13px;"><strong>Lugar:</strong>
 Auditotio del colegio de Abogados del Callao </p>
-<p style="line-height:5px;">Av. Oscar Benavides #4368, Bellavista Callao
+<p style="line-height:13px;">Av. Oscar Benavides #4368, Bellavista Callao
 Informes e inscripciones: secretaria@cac.pe</p>
-<p style="line-height:5px;">telefono: 464-0222(sede central)/736-7267(sede ventanilla)</p>
+<p style="line-height:13px;">telefono: 464-0222(sede central)/736-7267(sede ventanilla)</p>
 <br>
 <h5 class="pi-has-border pi-has-tall-border pi-has-base-border">
 			MATERIAL DEL CURSO
