@@ -588,9 +588,9 @@
 			</h3>
 		</div>
 		
-		<p class="lead-16 pi-margin-bottom-40 pi-text-center pi-text-grey">
+	<!--	<p class="lead-16 pi-margin-bottom-40 pi-text-center pi-text-grey">
 			Excepteur sint occaecat cupidatat non proident <br>sunt in culpa qui officia deserunt.
-		</p>
+		</p>-->
 
 		<div>
 			
