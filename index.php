@@ -409,6 +409,8 @@
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
+<!-- Portfolio gallery -->
+<div class="pi-row pi-liquid-col-xs-3 pi-gallery pi-padding-bottom-20 pi-text-center">
 <div id="servicios" class="pi-section-w pi-shadow-inside-top pi-section-dark piCounter pi-row pi-liquid-col-xs-1 pi-liquid-col-sm-4 pi-gallery pi-gallery-small-margins isotope servicios">
 	<div class="pi-section pi-padding-bottom-30">
 		
@@ -422,45 +424,11 @@
 			Los servicios que ofrecemos buscan perfeccionar la visión de largo alcance de las políticas públicas, promoviendo la apertura  <br> al cambio y la innovación, facilitando la creación e implementación de soluciones a problemas complejos que pueden estar enfrentando. 
 		</p>
 		
-		<!-- Portfolio gallery -->
-		<div class="pi-row pi-liquid-col-xs-3 pi-gallery pi-padding-bottom-20 pi-text-center">
-			
 			<!-- Portfolio item -->
 			<div class="Lifestyle Creation pi-gallery-item pi-padding-bottom-40 isotope-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow">
 					
-						<img src="img_external/servicios/capacitación.jpg" alt="">
-						<span class="pi-img-overlay pi-img-overlay-white">
-					    </span>
-				
-				</div>
-				<h6>Servicio de Investigación</h6></h3>
-				<ul class="pi-meta">
-					<strong><a href="servicio-de-investigacion.php">Más Información</a></strong>
-				</ul>
-			</div>
-			<!-- End portfolio item -->
-
-			<!-- Portfolio item -->
-			<div class="Lifestyle Creation pi-gallery-item pi-padding-bottom-40 isotope-item">
-				<div class="pi-img-w pi-img-round-corners pi-img-shadow">
-					
-						<img src="img_external/servicios/desarrollo-de-personas.jpg" alt="">
-					<span class="pi-img-overlay pi-img-overlay-white">
-					</span>
-					
-				</div>
-				<h6>Gestión</h6>
-				<ul class="pi-meta">
-					<strong><a href="gestion.php">Más Información</a></strong>
-				</ul>
-			</div>
-			<!-- End portfolio item -->
-			<!-- Portfolio item -->
-			<div class="Lifestyle Creation pi-gallery-item pi-padding-bottom-40 isotope-item">
-				<div class="pi-img-w pi-img-round-corners pi-img-shadow">
-					
-						<img src="img_external/servicios/Gestion.jpg" alt="">
+						<img src="img_external/servicios/capacitación.jpg" alt="">
 					   <span class="pi-img-overlay pi-img-overlay-white">
 					</span>
 				</div>
@@ -475,6 +443,36 @@
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow">
 					
 						<img src="img_external/servicios/investigacion.jpg" alt="">
+						<span class="pi-img-overlay pi-img-overlay-white">
+					    </span>
+				
+				</div>
+				<h6>Servicio de Investigación</h6></h3>
+				<ul class="pi-meta">
+					<strong><a href="servicio-de-investigacion.php">Más Información</a></strong>
+				</ul>
+			</div>
+			<!-- End portfolio item -->
+			<!-- Portfolio item -->
+			<div class="Lifestyle Creation pi-gallery-item pi-padding-bottom-40 isotope-item">
+				<div class="pi-img-w pi-img-round-corners pi-img-shadow">
+					
+						<img src="img_external/servicios/Gestion.jpg" alt="">
+					<span class="pi-img-overlay pi-img-overlay-white">
+					</span>
+					
+				</div>
+				<h6>Gestión</h6>
+				<ul class="pi-meta">
+					<strong><a href="gestion.php">Más Información</a></strong>
+				</ul>
+			</div>
+			<!-- End portfolio item -->
+			<!-- Portfolio item -->
+			<div class="Lifestyle Creation pi-gallery-item pi-padding-bottom-40 isotope-item">
+				<div class="pi-img-w pi-img-round-corners pi-img-shadow">
+					
+						<img src="img_external/servicios/desarrollo-de-personas.jpg" alt="">
 					 <span class="pi-img-overlay pi-img-overlay-white">
 					</span>
 				</div>
@@ -484,9 +482,6 @@
 				</ul>
 			</div>
 			<!-- End portfolio item -->
-
-
-			
 		</div>
 		<!-- End portfolio gallery -->
 	
