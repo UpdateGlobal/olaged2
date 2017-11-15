@@ -1,6 +1,6 @@
 <!-- Footer -->
 <!-- Widget area -->
-<div class="pi-section-w pi-border-bottom pi-border-top-light pi-section-dark footer">
+<<div class="pi-section-w pi-border-bottom pi-border-top-light pi-section-dark footer">
 	<div class="pi-section pi-padding-bottom-10">
 
 		<!-- Row -->
@@ -33,9 +33,9 @@
 				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-border pi-has-tall-border pi-has-short-border">
 				CONTACTO
 			    </h6>
-				<p>Sed ut perspiciatis 105 unde,amet, consectetur</p>
-				<p>+ 511 994 374 124</p>
-				<p>amet,@consectetur.com</p>
+				<p>Calle Martin Murua 150 oficina 901</p>
+				<p>+ 51 717 65 17</p>
+				<p>info@olaged.com</p>
 	
 	    <ul class="pi-social-icons pi-stacked pi-jump pi-full-height pi-bordered  pi-colored-bg clearFix">
 				<li><a href="#" class="pi-social-icon-linkedin"><i class="icon-linkedin"></i></a></li>
@@ -72,6 +72,8 @@
     	
 <a href="#" class="pi-scroll-top-arrow pi-active "> </a>
 </div>
+<!-- End copyright area -->
+<!-- End footer -->
 
 <script src="3dParty/jquery-1.11.0.min.js"></script>
 <script src="scripts/pi.easings.js"></script>

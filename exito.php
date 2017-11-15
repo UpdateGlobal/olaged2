@@ -93,7 +93,7 @@
 					</div>
 					<br>
 					<div>
-						<a class="btn" href="index.html">Volver al Inicio</a>
+						<a class="btn" href="index.php">Volver al Inicio</a>
 					</div>
 				</header>
 			</li>

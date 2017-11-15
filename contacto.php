@@ -40,7 +40,7 @@
 
 		<!-- Phone -->
 		<div class="pi-header-block pi-header-block-txt">
-			<i class="pi-header-block-icon icon-phone pi-icon-base pi-icon-square"></i>Informes: <strong>(+51) 999337660</strong>
+			<i class="pi-header-block-icon icon-phone pi-icon-base pi-icon-square"></i>Informes: <strong>(+51) 717 65 17</strong>
 		</div>
 		<!-- End phone -->
 
@@ -222,17 +222,16 @@
 			<div class="pi-col-sm-4">
 
 				<h2 class="h4 pi-has-bg pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-30">
-					CONTACTANOS
+					CONTÁCTANOS
 				</h2>
 				
 				<ul class="pi-list-with-icons pi-list-big-margins pi-padding-bottom-10">
-					<li><span class="pi-bullet-icon"><i class="icon-location"></i></span>Calle Martin de Murúa 150 <br>San Miguel.<br>
+					<li><span class="pi-bullet-icon"><i class="icon-location"></i></span>Calle Martín de Murúa 150 <br>San Miguel.<br>
 					<a href="#"></a></li>
 					
-					<li><span class="pi-bullet-icon"><i class="icon-mail"></i></span><a href="#">info@olaged.com</a><br><a href="#">info@olaged.com</a></li>
+					<li><span class="pi-bullet-icon"><i class="icon-mail"></i></span><a href="#">info@olaged.com</a>
 					
-					<li><span class="pi-bullet-icon"><i class="icon-phone"></i></span>327334 <strong></strong> <br>
-					 +51<strong>999337660</strong></li>
+					<li><span class="pi-bullet-icon"><i class="icon-phone"></i></span>(+51) 717 65 17 <strong></strong> 
 					
 					<li><span class="pi-bullet-icon"><i class="icon-clock"></i></span>Lunes - Viernes: <strong>9:00 am - 10:00 pm</strong>
 					<br>

@@ -147,7 +147,7 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS EL DESARROLLO DE LAS PERSONAS</span> 
 
 				<p class="pi-margin-bottom-30">
-					Promovemos el desarrollo de las personas
+					
 El desarrollo personal es una parte sustancial para cualquier organización.
 ¿Qué hacemos?
 				</p>
@@ -156,7 +156,7 @@ El desarrollo personal es una parte sustancial para cualquier organización.
 					<div class="pi-col-sm-11">
 						<ul class="pi-list-with-icons pi-list-icons-ok">
 							<li>Programas de desarrollo personal de los funcionarios públicos y  del sector privado que interactúa con el Estado.</li>
-							<li>Actividades de integración que faciliten el trabajo en equipo. .</li>
+							<li>Actividades de integración que faciliten el trabajo en equipo.</li>
 
 						</ul>
 					</div>

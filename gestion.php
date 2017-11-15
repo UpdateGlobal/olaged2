@@ -147,7 +147,7 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS LA GESTION</span> 
 
 				<p class="pi-margin-bottom-30">
-					Promovemos la gestión
+					
 La gestión eficiente en el Estado incide directamente en el bienestar del ciudadano.
 Qué hacemos?
 				</p>

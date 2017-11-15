@@ -149,9 +149,9 @@
 				<span class="pi-text-base1 pi-weight-600 pi-tooltip pi-tooltip-base">PROMOVEMOS EL CONOCIMIENTO</span> 
 
 				<p class="pi-margin-bottom-30">
-					Promovemos  el conocimiento 
-La capacitación es la mejor inversión, porque garantiza la innovación, competitividad y productividad.
-¿Qué hacemos?
+					
+				La capacitación es la mejor inversión, porque garantiza la innovación, competitividad y productividad.
+				¿Qué hacemos?
 
 				</p>
 				

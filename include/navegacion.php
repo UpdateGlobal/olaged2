@@ -6,6 +6,11 @@
 <li class="pi-has-dropdown  "><a href="#"><span>Servicios</span></a>
 	<ul class="pi-submenu pi-has-border pi-items-have-borders pi-has-shadow pi-submenu-dark">
 		
+		<li class="pi-has-dropdown" ><a href="capacitacion.php"><span>Capacitación</span></a>
+			<ul class="pi-submenu">
+			<li><a href="curso-contratacion-publica.php"><span>Curso de Contratación Pública</span></a></li>
+			</ul>
+		</li>
 		
 		<li class="pi" ><a href="servicio-de-investigacion.php"><span>Servicio de Investigación</span></a>
 		<!-- <ul class="pi-submenu">
@@ -23,11 +28,6 @@
 		</li>
 		
 		
-		<li class="pi-has-dropdown" ><a href="capacitacion.php"><span>Capacitación</span></a>
-			<ul class="pi-submenu">
-			<li><a href="curso-contratacion-publica.php"><span>Curso de Contratación Pública</span></a></li>
-			</ul>
-		</li>
 		
 		
 		<li><a href="desarrolloPersonas.php"><span>Desarrollo de Personas</span></a></li>

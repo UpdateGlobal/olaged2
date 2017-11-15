@@ -34,7 +34,7 @@
 				CONTACTO
 			    </h6>
 				<p>Calle Martin Murua 150 oficina 901</p>
-				<p>+ 511 994 374 124</p>
+				<p>+ 51 717 65 17</p>
 				<p>info@olaged.com</p>
 	
 	    <ul class="pi-social-icons pi-stacked pi-jump pi-full-height pi-bordered  pi-colored-bg clearFix">
