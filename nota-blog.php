@@ -47,7 +47,7 @@
 
 		<!-- Phone -->
 		<div class="pi-header-block pi-header-block-txt">
-			<i class="pi-header-block-icon icon-phone pi-icon-base pi-icon-square"></i>Informes: <strong>(+51) 999337660</strong>
+			<i class="pi-header-block-icon icon-phone pi-icon-base pi-icon-square"></i>Informes: <strong>(+51) 717 65 17</strong>
 		</div>
 		<!-- End phone -->
 

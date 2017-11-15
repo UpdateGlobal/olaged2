@@ -39,7 +39,7 @@
 
 		<!-- Phone -->
 		<div class="pi-header-block pi-header-block-txt">
-			<i class="pi-header-block-icon icon-phone pi-icon-base pi-icon-square"></i>Informes: <strong>(+51) 999337660</strong>
+			<i class="pi-header-block-icon icon-phone pi-icon-base pi-icon-square"></i>Informes: <strong>(+51) 717 65 17</strong>
 		</div>
 		<!-- End phone -->
 
@@ -254,11 +254,11 @@ Informes e inscripciones: secretaria@cac.pe</p>
 			MATERIAL DEL CURSO
 		</h5>
 <ul class="pi-list-with-icons pi-list-icons-plus">
-		<li><a href="https://drive.google.com/file/d/1BD3-REkq65ILUAPUbH9OFLo7IrdTWNGH/view">Ley #3025 - ley de contrataciones del estado.</a></li>
-		<li><a href="https://drive.google.com/open?id=1AFVKL2FQ8v9MiENWRJVJ0RcvEJnJ8_wm">Reglamento de la ley contrataciones del estado</a></li>
+		<li>Ley #3025 - ley de contrataciones del estado.</li>
+		<li>Reglamento de la ley contrataciones del estado</li>
 	</ul>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSe1cyjxiT626loOhBr3Dzy23FaA4UJbYCE7ZKMZie8Q5VKLCQ/viewform" target="_blank" class="btn pi-btn-base">
-		INSCRÍBETE AQUI
+		DESCARGALOS AQUÍ
 	</a>
 	</div>
 	
