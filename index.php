@@ -600,7 +600,8 @@
 				</div>
 				
 				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
-					<a href="nota-blog.php" class="pi-link-dark">Regulación Administrativa (Poder de Policía del Estado) y Seguros Privados. Posible complementariedad virtuosa.</a>
+					<a href="nota-blog.php" class="pi-link-dark">
+						<p align="left">Regulación Administrativa (Poder de Policía del Estado) y Seguros Privados. Posible complementariedad virtuosa.</p></a>
 				</h2>
 				
 				
@@ -627,7 +628,7 @@
 				
 				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
 					<a href="#" class="pi-link-dark">
-						Los problemas del Servicio Civil. Persistencia de problemas y de falta de medidas (parte 2)
+						<p style="left: 40px;" align="left">Problemas del Servicio Civil. Persistencia de problemas y de falta de medidas (parte 2)</p>
 					</a>
 				</h2>
 				
